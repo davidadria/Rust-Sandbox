@@ -15,7 +15,13 @@ Guía a Seguir
 Libro Oficial  
 [The Rust Programming Language](https://doc.rust-lang.org/book/title-page.html#the-rust-programming-language)
 
-## Proyectos
+## Contenidos
 
 ### Hello World
 Lo más básico y esencial de todos los lenguajes de programación
+
+### Variables, DataTypes and Constants
+- Declaración de variables
+- Tipos de dato
+- Constantes
+- Mutabilidad
