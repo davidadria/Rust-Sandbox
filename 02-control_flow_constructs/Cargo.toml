@@ -1,5 +1,5 @@
 [package]
-name = "Ejercicio01-Calculadora"
+name = "control_flow_constructs"
 version = "0.1.0"
 edition = "2024"
 
