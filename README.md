@@ -13,7 +13,7 @@ Guía a Seguir
 [Roadmap](https://roadmap.sh/rust)
 
 Libro Oficial  
-[The Rust Programming Language](https://doc.rust-lang.org/book/title-page.html#the-rust-programming-language)
+[The Rust Programming Language](https://doc.rust-lang.org/book/)
 
 ## Contenidos
 
@@ -25,6 +25,15 @@ Lo más básico y esencial de todos los lenguajes de programación
 - Tipos de dato
 - Constantes
 - Mutabilidad
+
+### Control Flow Constructs
+- if / else
+- if / let
+- match
+- for
+- while
+- loop
+- break
 
 ## Ejercicios 
 
