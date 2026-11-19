@@ -25,3 +25,14 @@ Lo más básico y esencial de todos los lenguajes de programación
 - Tipos de dato
 - Constantes
 - Mutabilidad
+
+## Ejercicios 
+
+### Calculadora
+- Pedir datos al usuario (std::io)
+- Mostrar Resultados
+    - Suma
+    - Resta
+    - Multiplicar
+    - Dividir
+
