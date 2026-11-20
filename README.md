@@ -1,4 +1,5 @@
 # Rust-Sandbox
+
 Aprendiendo Rust desde 0
 
 ## Recursos
@@ -15,18 +16,24 @@ Guía a Seguir
 Libro Oficial  
 [The Rust Programming Language](https://doc.rust-lang.org/book/)
 
+Proyectos de Internet
+[100 Days of Rust](https://github.com/LiveGray/100-Days-Of-Rust)
+
 ## Contenidos
 
 ### Hello World
+
 Lo más básico y esencial de todos los lenguajes de programación
 
 ### Variables, DataTypes and Constants
+
 - Declaración de variables
 - Tipos de dato
 - Constantes
 - Mutabilidad
 
 ### Control Flow Constructs
+
 - if / else
 - if / let
 - match
@@ -35,13 +42,18 @@ Lo más básico y esencial de todos los lenguajes de programación
 - loop
 - break
 
-## Ejercicios 
+## Ejercicios
 
 ### Calculadora
+
 - Pedir datos al usuario (std::io)
 - Mostrar Resultados
-    - Suma
-    - Resta
-    - Multiplicar
-    - Dividir
+  - Suma
+  - Resta
+  - Multiplicar
+  - Dividir
 
+### Repo: Dia 1; Convertir Años a Dias
+
+- Pedir datos al usuario (std::io)
+- Parsear optimamente String -> Int
