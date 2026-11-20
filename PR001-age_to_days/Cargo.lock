@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "PR01-age_to_days"
+name = "PR001-age_to_days"
 version = "0.1.0"
