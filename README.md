@@ -22,32 +22,33 @@ Proyectos de Internet
 ## Estructura
 
 ```bash
-Rust-Sandbox
+Rust-Sandbox/
 ├── 00-hello_world
-├── 01-variables_dataTypes_constants
+├── 01-variables_data_types_constants
 ├── 02-control_flow_constructs
-├── 100DaysRust
+├── 100_days_rust
 │   └── PR001-age_to_days
-├── Ejercicios
-│   ├── ejercicio01-calculadora
-│   └── ejercicio02-nave_espacial
+├── ejercicios
+│   ├── ejercicio_01_calculadora
+│   └── ejercicio_02_nave_espacial
+├── .gitignore
 └── README.md
 ```
 
 ## Contenidos
 
-### Hello World
+### [00 - Hello World](./00-hello_world)
 
-Lo más básico y esencial de todos los lenguajes de programación
+Lo más básico y esencial de todos los lenguajes de programación.
 
-### Variables, DataTypes and Constants
+### [01 - Variables, DataTypes and Constants](./01-variables_data_types_constants)
 
 - Declaración de variables
 - Tipos de dato
 - Constantes
 - Mutabilidad
 
-### Control Flow Constructs
+### [02 - Control Flow Constructs](./02-control_flow_constructs)
 
 - if / else
 - if / let
@@ -59,7 +60,7 @@ Lo más básico y esencial de todos los lenguajes de programación
 
 ## Ejercicios
 
-### Calculadora
+### [Calculadora](./ejercicios/ejercicio_01_calculadora)
 
 - Pedir datos al usuario (std::io)
 - Mostrar Resultados
@@ -68,15 +69,15 @@ Lo más básico y esencial de todos los lenguajes de programación
   - Multiplicar
   - Dividir
 
-### Consola Nave Espacial
+### [Consola Nave Espacial](./ejercicios/ejercicio_02_nave_espacial)
 
-- Pedir datos al usuario (std_io)
+- Pedir datos al usuario (std::io)
 - Condicionales
 - Bucles
 
 ## 100 Days of Rust
 
-### Dia 1; Convertir Años a Dias
+### [Día 1: Convertir Años a Días](./100_days_rust/PR001-age_to_days)
 
 - Pedir datos al usuario (std::io)
 - Parsear String -> Int
