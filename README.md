@@ -66,6 +66,14 @@ Lo más básico y esencial de todos los lenguajes de programación.
 - Declaracion Vs Expresion
 - Return
 
+### [04 - Structs](./04-structs)
+
+- Declaracion
+- Instanciar (concretamente)
+- Instanciar (forma corta)
+- Obtener valores
+- Clonar y cambiar valores
+
 ## Ejercicios
 
 ### [Calculadora](./ejercicios/ejercicio_01_calculadora)
