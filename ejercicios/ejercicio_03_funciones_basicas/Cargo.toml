@@ -1,0 +1,6 @@
+[package]
+name = "ejercicio_03_funciones_basicas"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

@@ -83,6 +83,13 @@ Lo más básico y esencial de todos los lenguajes de programación.
 - Condicionales
 - Bucles
 
+### [Funciones Básicas](./ejercicios/funciones_basicas)
+
+- Funciones que reciben parametros
+- Funciones que devuelven valor
+- Operaciones matematicas simples
+- Manejo simple de strings
+
 ## 100 Days of Rust
 
 ### [Día 1: Convertir Años a Días](./100_days_rust/PR001-age_to_days)
