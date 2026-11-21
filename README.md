@@ -53,7 +53,13 @@ Lo más básico y esencial de todos los lenguajes de programación
   - Multiplicar
   - Dividir
 
+### Consola Nave Espacial
+
+- Pedir datos al usuario (std_io)
+- Condicionales
+- Bucles
+
 ### Repo: Dia 1; Convertir Años a Dias
 
 - Pedir datos al usuario (std::io)
-- Parsear optimamente String -> Int
+- Parsear String -> Int
