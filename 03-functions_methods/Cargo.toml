@@ -1,0 +1,10 @@
+[package]
+name = "functions_methods"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+[[bin]]
+name = "03-functions_methods"
+path = "src/main.rs"

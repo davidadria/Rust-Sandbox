@@ -59,6 +59,12 @@ Lo más básico y esencial de todos los lenguajes de programación.
 - loop
 - break
 
+### [03 - Functions and Method Syntax](./03-functions_methods)
+
+- Declaración
+- Parámetros
+- Return
+
 ## Ejercicios
 
 ### [Calculadora](./ejercicios/ejercicio_01_calculadora)
