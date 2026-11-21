@@ -27,7 +27,8 @@ Rust-Sandbox/
 ├── 01-variables_data_types_constants
 ├── 02-control_flow_constructs
 ├── 100_days_rust
-│   └── PR001-age_to_days
+│   ├── PR001-age_to_days
+│   └── PR002-finding_nemo
 ├── ejercicios
 │   ├── ejercicio_01_calculadora
 │   └── ejercicio_02_nave_espacial
