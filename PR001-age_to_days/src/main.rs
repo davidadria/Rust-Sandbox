@@ -19,7 +19,7 @@ fn main() {
 
     let days = age * 365;
 
-    eprint!(
+    println!(
         "Edad: {}
         \nDias: {}",
         age, days
