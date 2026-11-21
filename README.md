@@ -81,3 +81,7 @@ Lo más básico y esencial de todos los lenguajes de programación.
 
 - Pedir datos al usuario (std::io)
 - Parsear String -> Int
+
+### [Día 2: Buscando a Nemo](./100_days_rust/PR002-finding_nemo)
+
+- Manejo de Strings
