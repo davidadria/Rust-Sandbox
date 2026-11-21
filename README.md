@@ -85,3 +85,5 @@ Lo más básico y esencial de todos los lenguajes de programación.
 ### [Día 2: Buscando a Nemo](./100_days_rust/PR002-finding_nemo)
 
 - Manejo de Strings
+- Bucle For
+- Uso de Flags
