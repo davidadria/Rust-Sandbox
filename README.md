@@ -34,7 +34,8 @@ Rust-Sandbox/
 ├── ejercicios
 │   ├── ejercicio_01_calculadora
 │   ├── ejercicio_02_nave_espacial
-│   └── ejercicio_03_funciones_basicas
+│   ├── ejercicio_03_funciones_basicas
+│   └── ejercicio_04_rpg
 ├── .gitignore
 └── README.md
 ```
