@@ -142,4 +142,7 @@ Lo más básico de todos los lenguajes de programación.
 
 ### [Día 3: Barbacue](./100_days_rust/PR003-barbacue)
 
--
+- Manejo de Strings
+- Bucle For
+- Condicionales
+- Array
