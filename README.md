@@ -28,6 +28,7 @@ Rust-Sandbox/
 ├── 02-control_flow_constructs
 ├── 03-functions_methods
 ├── 04-structs
+├── 05-enums
 ├── 100_days_rust
 │   ├── PR001-age_to_days
 │   └── PR002-finding_nemo
@@ -35,7 +36,8 @@ Rust-Sandbox/
 │   ├── ejercicio_01_calculadora
 │   ├── ejercicio_02_nave_espacial
 │   ├── ejercicio_03_funciones_basicas
-│   └── ejercicio_04_rpg
+│   ├── ejercicio_04_rpg
+│   └── ejercicio_05_reproductor_multimedia
 ├── .gitignore
 └── README.md
 ```
@@ -115,6 +117,14 @@ Lo más básico de todos los lenguajes de programación.
 - Structs
 - Funciones
 - Operaciones simples
+
+### [Reproductor Multimedia](./ejercicios/ejercicio_05_reproductor_multimedia)
+
+- Enums
+- Array
+- Bucle For
+- Funciones
+- Match Pattern
 
 ## 100 Days of Rust
 
