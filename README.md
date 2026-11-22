@@ -95,12 +95,14 @@ Lo más básico de todos los lenguajes de programación.
 - Condicionales
 - Bucles
 
-### [Funciones Básicas](./ejercicios/funciones_basicas)
+### [Funciones Básicas](./ejercicios/ejercicio_03_funciones_basicas)
 
 - Funciones que reciben parametros
 - Funciones que devuelven valor
 - Operaciones matematicas simples
 - Manejo simple de strings
+
+### [RPG](./ejercicios/ejercicio_04_rpg)
 
 ## 100 Days of Rust
 
