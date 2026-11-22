@@ -79,6 +79,13 @@ Lo más básico de todos los lenguajes de programación.
 - Tuple Struct
 - Unit Struct
 
+### [05 - Enum](./05-enums)
+
+- Declaración
+- Valores
+- Option
+- Pattern Matching
+
 ## Ejercicios
 
 ### [Calculadora](./ejercicios/ejercicio_01_calculadora)
