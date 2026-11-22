@@ -26,12 +26,15 @@ Rust-Sandbox/
 ├── 00-hello_world
 ├── 01-variables_data_types_constants
 ├── 02-control_flow_constructs
+├── 03-functions_methods
+├── 04-structs
 ├── 100_days_rust
 │   ├── PR001-age_to_days
 │   └── PR002-finding_nemo
 ├── ejercicios
 │   ├── ejercicio_01_calculadora
-│   └── ejercicio_02_nave_espacial
+│   ├── ejercicio_02_nave_espacial
+│   └── ejercicio_03_funciones_basicas
 ├── .gitignore
 └── README.md
 ```
@@ -40,7 +43,7 @@ Rust-Sandbox/
 
 ### [00 - Hello World](./00-hello_world)
 
-Lo más básico y esencial de todos los lenguajes de programación.
+Lo más básico de todos los lenguajes de programación.
 
 ### [01 - Variables, DataTypes and Constants](./01-variables_data_types_constants)
 
@@ -69,10 +72,11 @@ Lo más básico y esencial de todos los lenguajes de programación.
 ### [04 - Structs](./04-structs)
 
 - Declaracion
-- Instanciar (concretamente)
-- Instanciar (forma corta)
+- Instanciar (atajo incluido)
 - Obtener valores
-- Clonar y cambiar valores
+- Traspasar y cambiar valores
+- Tuple Struct
+- Unit Struct
 
 ## Ejercicios
 
