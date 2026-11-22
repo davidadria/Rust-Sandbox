@@ -31,7 +31,8 @@ Rust-Sandbox/
 ├── 05-enums
 ├── 100_days_rust
 │   ├── PR001-age_to_days
-│   └── PR002-finding_nemo
+│   ├── PR002-finding_nemo
+│   └── PR003-barbacue
 ├── ejercicios
 │   ├── ejercicio_01_calculadora
 │   ├── ejercicio_02_nave_espacial
@@ -138,3 +139,7 @@ Lo más básico de todos los lenguajes de programación.
 - Manejo de Strings
 - Bucle For
 - Uso de Flags
+
+### [Día 3: Barbacue](./100_days_rust/PR003-barbacue)
+
+-
