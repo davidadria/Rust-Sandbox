@@ -44,6 +44,10 @@ Rust-Sandbox/
 └── README.md
 ```
 
+## IA
+
+La IA no ha sido ni será usada para resolver problemas directamente, sólo podrá ser usada para resolución de dudas, explicaciones de temas no entenidos y generación de ejercicios.
+
 ## Contenidos
 
 ### [00 - Hello World](./00-hello_world)
