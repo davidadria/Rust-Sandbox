@@ -29,6 +29,7 @@ Rust-Sandbox/
 ├── 03-functions_methods
 ├── 04-structs
 ├── 05-enums
+├── 06-ownership_borrowing_slices
 ├── 100_days_rust
 │   ├── PR001-age_to_days
 │   ├── PR002-finding_nemo
@@ -96,7 +97,12 @@ Lo más básico de todos los lenguajes de programación.
 
 ### [06 - Ownership, Borrowing and Slices](./06-ownership_borrowing_slices)
 
--
+- Reglas universales
+- Ownership (y a qué se aplica)
+- Scope Básico
+- Borrowing (mutable e inmutable)
+- Errores Comunes
+- Slices
 
 ## Ejercicios
 
