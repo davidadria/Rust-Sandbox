@@ -41,6 +41,7 @@ Rust-Sandbox/
 │   ├── ejercicio_03_funciones_basicas
 │   ├── ejercicio_04_rpg
 │   └── ejercicio_05_reproductor_multimedia
+│   └── ejercicio_06_dominios
 ├── .gitignore
 └── README.md
 ```
@@ -141,6 +142,14 @@ Lo más básico de todos los lenguajes de programación.
 - Bucle For
 - Funciones
 - Match Pattern
+
+### [Dominios](./ejercicios/ejercicio_06_dominios)
+
+- Ownership
+- Borrowing
+- Slices
+- Funciones
+- Match-Some
 
 ## 100 Days of Rust
 
