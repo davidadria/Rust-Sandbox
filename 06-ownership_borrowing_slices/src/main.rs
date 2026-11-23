@@ -68,7 +68,7 @@ fn main() {
     // slices se otros tipos de dato
     let array = [1, 2, 3, 4];
 
-    let array_slice = &a[1..3]; // 2,3,4
+    let array_slice = &array[1..3]; // 2,3,4
 }
 
 // OWNERSHIP
