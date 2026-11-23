@@ -32,7 +32,8 @@ Rust-Sandbox/
 ├── 100_days_rust
 │   ├── PR001-age_to_days
 │   ├── PR002-finding_nemo
-│   └── PR003-barbacue
+│   ├── PR003-barbacue
+│   └── PR004-jonny_progress
 ├── ejercicios
 │   ├── ejercicio_01_calculadora
 │   ├── ejercicio_02_nave_espacial
@@ -146,3 +147,7 @@ Lo más básico de todos los lenguajes de programación.
 - Bucle For
 - Condicionales
 - Array
+
+### [Día 4: Jonny's Progress](./100_days_rust/PR004-jonny_progress)
+
+-
