@@ -90,6 +90,10 @@ Lo más básico de todos los lenguajes de programación.
 - Option
 - Pattern Matching
 
+### [06 - Ownership, Borrowing and Slices](./06-ownership_borrowing_slices)
+
+-
+
 ## Ejercicios
 
 ### [Calculadora](./ejercicios/ejercicio_01_calculadora)
