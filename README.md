@@ -150,4 +150,5 @@ Lo más básico de todos los lenguajes de programación.
 
 ### [Día 4: Jonny's Progress](./100_days_rust/PR004-jonny_progress)
 
--
+- Arrays
+- Bucle While
