@@ -35,6 +35,7 @@ Rust-Sandbox/
 │   ├── PR002-finding_nemo
 │   ├── PR003-barbacue
 │   └── PR004-jonny_progress
+│   └── PR005-pair_socks
 ├── ejercicios
 │   ├── AC01-calculadora
 │   ├── AC02-nave_espacial
@@ -175,3 +176,10 @@ Lo más básico de todos los lenguajes de programación.
 
 - Arrays
 - Bucle While
+
+### [Día 5: Pair Socks](./100_days_of_rust/PR005-pair_socks)
+
+- Vec (adelantado)
+- Bucle for
+- Borrowing
+- Programacion Funcional (adelantado)
