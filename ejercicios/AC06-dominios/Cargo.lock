@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "ejercicio02-nave_espacial"
+name = "AC06-dominios"
 version = "0.1.0"

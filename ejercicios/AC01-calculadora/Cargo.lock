@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "ejercicio_06_dominios"
+name = "AC01-calculadora"
 version = "0.1.0"

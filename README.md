@@ -36,12 +36,12 @@ Rust-Sandbox/
 │   ├── PR003-barbacue
 │   └── PR004-jonny_progress
 ├── ejercicios
-│   ├── ejercicio_01_calculadora
-│   ├── ejercicio_02_nave_espacial
-│   ├── ejercicio_03_funciones_basicas
-│   ├── ejercicio_04_rpg
-│   └── ejercicio_05_reproductor_multimedia
-│   └── ejercicio_06_dominios
+│   ├── AC01-calculadora
+│   ├── AC02-nave_espacial
+│   ├── AC03-funciones_basicas
+│   ├── AC04-rpg
+│   ├── AC05-reproductor_multimedia
+│   └── AC06-dominios
 ├── .gitignore
 └── README.md
 ```

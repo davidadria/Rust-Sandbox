@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "ejercicio_05_reproductor_multimedia"
+name = "AC02-nave_espacial"
 version = "0.1.0"

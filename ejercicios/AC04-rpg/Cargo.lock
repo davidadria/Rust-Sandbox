@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "ejercicio_04_rpg"
+name = "AC04-rpg"
 version = "0.1.0"
