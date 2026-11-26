@@ -34,8 +34,9 @@ Rust-Sandbox/
 │   ├── PR001-age_to_days
 │   ├── PR002-finding_nemo
 │   ├── PR003-barbacue
-│   └── PR004-jonny_progress
-│   └── PR005-pair_socks
+│   ├── PR004-jonny_progress
+│   ├── PR005-pair_socks
+│   └── PR006-next_prime
 ├── ejercicios
 │   ├── AC01-calculadora
 │   ├── AC02-nave_espacial
@@ -183,3 +184,7 @@ Lo más básico de todos los lenguajes de programación.
 - Bucle for
 - Borrowing
 - Programacion Funcional (adelantado)
+
+### [Día 6: Next Prime](./100_days_of_rust/PR006-next_prime)
+
+-
