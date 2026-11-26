@@ -36,7 +36,8 @@ Rust-Sandbox/
 │   ├── PR003-barbacue
 │   ├── PR004-jonny_progress
 │   ├── PR005-pair_socks
-│   └── PR006-next_prime
+│   ├── PR006-next_prime
+│   └── PR007-merge_sorted_array
 ├── ejercicios
 │   ├── AC01-calculadora
 │   ├── AC02-nave_espacial
@@ -191,3 +192,7 @@ Lo más básico de todos los lenguajes de programación.
 - Bucle While
 - Condicionales
 - Funciones
+
+### [Día 7: Merge Sorted Array](./100_days_of_rust/PR007-merge_sorted_array)
+
+-
