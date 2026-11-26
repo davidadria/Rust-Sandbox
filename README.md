@@ -187,4 +187,7 @@ Lo más básico de todos los lenguajes de programación.
 
 ### [Día 6: Next Prime](./100_days_of_rust/PR006-next_prime)
 
--
+- Bucle For
+- Bucle While
+- Condicionales
+- Funciones
