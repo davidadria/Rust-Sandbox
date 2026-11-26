@@ -195,4 +195,6 @@ Lo más básico de todos los lenguajes de programación.
 
 ### [Día 7: Merge Sorted Array](./100_days_of_rust/PR007-merge_sorted_array)
 
--
+- Arrays
+- Loop
+- Match Some
