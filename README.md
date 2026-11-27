@@ -110,7 +110,10 @@ Lo más básico de todos los lenguajes de programación.
 
 ### [07 - Impl Blocks](./07-impl_blocks)
 
--
+- Declaración
+- Usos
+- Bloques Self
+- Instanciar
 
 ## Ejercicios
 
