@@ -1,0 +1,10 @@
+[package]
+name = "data_structures"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+[[bin]]
+name = "08-common_data_structures"
+path = "src/main.rs"

@@ -31,6 +31,7 @@ Rust-Sandbox/
 ├── 05-enums
 ├── 06-ownership_borrowing_slices
 ├── 07-impl_blocks
+├── 08-data_structures
 ├── 100_days_rust
 │   ├── PR001-age_to_days
 │   ├── PR002-finding_nemo
@@ -116,6 +117,12 @@ Lo más básico de todos los lenguajes de programación.
 - Usos
 - Bloques Self
 - Instanciar
+
+### [08 - Common Data Structures](./08-common_data_structures)
+
+- Vector
+- HashMap
+- HashSet
 
 ## Ejercicios
 
