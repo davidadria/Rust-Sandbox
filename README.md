@@ -176,6 +176,12 @@ Lo más básico de todos los lenguajes de programación.
 - Impl
 - Métodos
 
+### [Gestor Inventario](./ejercicios/AC08-gestor_inventario)
+
+- Hashmap
+- Operaciones
+- Bucle For
+
 ## 100 Days of Rust
 
 ### [Día 1: Convertir Años a Días](./100_days_rust/PR001-age_to_days)
