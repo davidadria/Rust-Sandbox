@@ -30,6 +30,7 @@ Rust-Sandbox/
 ├── 04-structs
 ├── 05-enums
 ├── 06-ownership_borrowing_slices
+├── 07-impl_blocks
 ├── 100_days_rust
 │   ├── PR001-age_to_days
 │   ├── PR002-finding_nemo
@@ -44,7 +45,8 @@ Rust-Sandbox/
 │   ├── AC03-funciones_basicas
 │   ├── AC04-rpg
 │   ├── AC05-reproductor_multimedia
-│   └── AC06-dominios
+│   ├── AC06-dominios
+│   └── AC07-cuenta_bancaria
 ├── .gitignore
 └── README.md
 ```
@@ -117,7 +119,7 @@ Lo más básico de todos los lenguajes de programación.
 
 ## Ejercicios
 
-### [Calculadora](./ejercicios/ejercicio_01_calculadora)
+### [Calculadora](./ejercicios/AC01-calculadora)
 
 - Pedir datos al usuario (std::io)
 - Mostrar Resultados
@@ -126,26 +128,26 @@ Lo más básico de todos los lenguajes de programación.
   - Multiplicar
   - Dividir
 
-### [Consola Nave Espacial](./ejercicios/ejercicio_02_nave_espacial)
+### [Consola Nave Espacial](./ejercicios/AC02-nave_espacial)
 
 - Pedir datos al usuario (std::io)
 - Condicionales
 - Bucles
 
-### [Funciones Básicas](./ejercicios/ejercicio_03_funciones_basicas)
+### [Funciones Básicas](./ejercicios/AC03-funciones_basicas)
 
 - Funciones que reciben parametros
 - Funciones que devuelven valor
 - Operaciones matematicas simples
 - Manejo simple de strings
 
-### [RPG](./ejercicios/ejercicio_04_rpg)
+### [RPG](./ejercicios/AC04-rpg)
 
 - Structs
 - Funciones
 - Operaciones simples
 
-### [Reproductor Multimedia](./ejercicios/ejercicio_05_reproductor_multimedia)
+### [Reproductor Multimedia](./ejercicios/AC05-reproductor_multimedia)
 
 - Enums
 - Array
@@ -153,13 +155,17 @@ Lo más básico de todos los lenguajes de programación.
 - Funciones
 - Match Pattern
 
-### [Dominios](./ejercicios/ejercicio_06_dominios)
+### [Dominios](./ejercicios/AC06-dominios)
 
 - Ownership
 - Borrowing
 - Slices
 - Funciones
 - Match-Some
+
+### [Cuenta Bancaria](./ejercicios/AC07-cuenta_bancaria)
+
+-
 
 ## 100 Days of Rust
 
