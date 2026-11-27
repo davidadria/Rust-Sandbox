@@ -1,0 +1,10 @@
+[package]
+name = "impl_blocks"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+[[bin]]
+name = "07-impl_blocks"
+path = "src/main.rs"

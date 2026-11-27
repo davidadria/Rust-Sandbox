@@ -108,6 +108,10 @@ Lo más básico de todos los lenguajes de programación.
 - Errores Comunes
 - Slices
 
+### [07 - Impl Blocks](./07-impl_blocks)
+
+-
+
 ## Ejercicios
 
 ### [Calculadora](./ejercicios/ejercicio_01_calculadora)
