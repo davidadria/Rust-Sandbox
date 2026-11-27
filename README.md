@@ -31,7 +31,7 @@ Rust-Sandbox/
 ├── 05-enums
 ├── 06-ownership_borrowing_slices
 ├── 07-impl_blocks
-├── 08-data_structures
+├── 08-common_data_structures
 ├── 100_days_rust
 │   ├── PR001-age_to_days
 │   ├── PR002-finding_nemo
@@ -47,7 +47,8 @@ Rust-Sandbox/
 │   ├── AC04-rpg
 │   ├── AC05-reproductor_multimedia
 │   ├── AC06-dominios
-│   └── AC07-cuenta_bancaria
+│   ├── AC07-cuenta_bancaria
+│   └── AC08-gestor_inventario
 ├── .gitignore
 └── README.md
 ```
@@ -179,8 +180,9 @@ Lo más básico de todos los lenguajes de programación.
 ### [Gestor Inventario](./ejercicios/AC08-gestor_inventario)
 
 - Hashmap
-- Operaciones
-- Bucle For
+- Insertar
+- Recorrer
+- Modificar
 
 ## 100 Days of Rust
 
