@@ -165,7 +165,9 @@ Lo más básico de todos los lenguajes de programación.
 
 ### [Cuenta Bancaria](./ejercicios/AC07-cuenta_bancaria)
 
--
+- Structs
+- Impl
+- Métodos
 
 ## 100 Days of Rust
 
